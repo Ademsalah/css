@@ -64,7 +64,11 @@ color: #484551;
     text-align: left;
     margin-top: 0;
   }
-  
+  .aboutme{
+    display: flex;
+    justify-content: space-between;
+
+  }
   .watchvideo-btn {
     padding: 20px 40px;
     border: 1px solid #484551;
@@ -80,7 +84,7 @@ color: #484551;
     color: white;
   }
 .video-css {
-    padding: 0px 800px;
+  padding: 17px 389px;
 }
 .projects-section {
     display: flex;
@@ -102,7 +106,7 @@ color: #484551;
     order: -1;
   }
   
-  /* footer */
+  
   footer {
     margin: 0;
     padding: 0;
@@ -121,3 +125,5 @@ color: #484551;
     text-decoration: underline;
     color: #5b6b7f;
   }
+  
+  
